@@ -1,2 +1,2 @@
 # ShareSheet
-![Sample](https://imgur.com/4Swp4cB)
+![Sample](https://i.imgur.com/4Swp4cB.png)
